@@ -15,7 +15,7 @@ step 1)Copy the full folder in your web directory.
 
 3)Edit the DB connection file. Change username, password, and database name.The default user is root, the password is null and the database name is project.
 
-The default admin email ID is Admin@gmail.com and the password is 12345.
+The default admin email ID is Admin123@gmail.com and the password is 12345.
 
 admin password is md5 encrypted.
 
